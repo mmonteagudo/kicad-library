@@ -144,6 +144,10 @@ K Timer NE555
 F http://www.ti.com/lit/ds/symlink/tlc555.pdf
 $ENDCMP
 #
+$CMP TLC59211
+D 8-Bit DMOS Sink Driver
+$ENDCMP
+#
 $CMP TLC5940NT
 D 16-Channel LED Driver With DOT Correction and Grayscale PWM Control, DIP package
 K PWM LED driver
